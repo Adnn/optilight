@@ -1,0 +1,212 @@
+{
+    "helmet": [
+        {
+            "name": "Seventh Seraph",
+            "power": 1005,
+            "mw": false,
+            "stats": [7, 18, 7, 11, 14, 6],
+            "total": 63
+        },
+        {
+            "name": "Mask of Rull",
+            "power": 1000,
+            "mw": false,
+            "stats": [8, 20, 2, 6 , 9 , 15],
+            "total": 60
+        },
+        {
+            "name": "Simulator Helm",
+            "power": 1003,
+            "mw": false,
+            "stats": [16, 14, 2, 6, 9, 15],
+            "total": 62
+        },
+        {
+            "name": "Devastation Complex",
+            "power": 1001,
+            "mw": false,
+            "stats": [2, 10, 18, 14, 14, 2],
+            "total": 60
+        },
+        {
+            "name": "Sovereign Help",
+            "power": 953,
+            "mw": false,
+            "stats": [18, 2, 13, 6, 23, 2],
+            "total": 64
+        },
+        {
+            "name": "Prodigal Helm",
+            "power": 1006,
+            "mw": false,
+            "stats": [6, 25, 2, 6, 13, 12],
+            "total": 64
+        }
+    ],
+
+    "gauntlet": [
+        {
+            "name": "Dreambane",
+            "power": 1006,
+            "mw": true,
+            "stats": [14, 15, 8, 13, 9, 8],
+            "total": 67
+        },
+        {
+            "name": "Mimetic Savior",
+            "power": 1001,
+            "mw": false,
+            "stats": [10, 18, 2, 9, 12, 9],
+            "total": 60
+        },
+        {
+            "name": "Kerak type 2",
+            "power": 1003,
+            "mw": false,
+            "stats": [2, 2, 26, 14, 10, 7],
+            "total": 61
+        },
+        {
+            "name": "Substitutional Alloy",
+            "power": 992,
+            "mw": false,
+            "stats": [17, 2, 12, 14, 14, 2],
+            "total": 61
+        },
+        {
+            "name": "Noble Constant",
+            "power": 1005,
+            "mw": false,
+            "stats": [19, 11, 2, 10, 10, 10],
+            "total": 62
+        },
+        {
+            "name": "Sovereign",
+            "power": 1005,
+            "mw": false,
+            "stats": [12, 16, 2, 13, 9, 8],
+            "total": 60
+        },
+        {
+            "name": "Seventh Seraph",
+            "power": 1005,
+            "mw": false,
+            "stats": [2, 22, 10, 9, 12, 12],
+            "total": 67
+        }
+    ],
+
+    "armor": [
+        {
+            "name": "Dreambane Plate",
+            "power": 1005,
+            "mw": true,
+            "stats": [4, 15, 14, 10, 15, 9],
+            "total": 67
+        },
+        {
+            "name": "Tangled Web Plate",
+            "power": 1000,
+            "mw": false,
+            "stats": [7, 16, 6, 14, 2, 16],
+            "total": 61
+        },
+        {
+            "name": "Seventh Seraph Plate",
+            "power": 1005,
+            "mw": false,
+            "stats": [8, 17, 7, 6, 19, 8],
+            "total": 65
+        },
+        {
+            "name": "Simulator Plate",
+            "power": 1004,
+            "mw": false,
+            "stats": [12, 2, 18, 9, 13, 7],
+            "total": 61
+        },
+        {
+            "name": "Anti-Extinction",
+            "power": 1003,
+            "mw": false,
+            "stats": [14, 7, 10, 2, 26, 2],
+            "total": 61
+        },
+        {
+            "name": "Tangled Web Plate",
+            "power": 965,
+            "mw": false,
+            "stats": [16, 2, 16, 14, 15, 2],
+            "total": 65
+        }
+    ],
+
+    "greaves": [
+        {
+            "name": "Dreambane Greaves",
+            "power": 1004,
+            "mw": true,
+            "stats": [19, 4, 8, 15, 14, 4],
+            "total": 64
+        },
+        {
+            "name": "Kerak Type 2",
+            "power": 1000,
+            "mw": false,
+            "stats": [20, 6, 7, 9, 2, 17],
+            "total": 61
+        },
+        {
+            "name": "Seventh Seraph Greaves",
+            "power": 1005,
+            "mw": false,
+            "stats": [7, 20, 6, 12, 9, 12],
+            "total": 66
+        },
+        {
+            "name": "Simulator Greaves",
+            "power": 1005,
+            "mw": false,
+            "stats": [14, 12, 2, 20, 6, 7],
+            "total": 61
+        },
+        {
+            "name": "Sovereign Greaves",
+            "power": 1003,
+            "mw": false,
+            "stats": [2, 12, 20, 12, 9, 7],
+            "total": 62
+        },
+        {
+            "name": "Mimetic Savior Greaves",
+            "power": 1002,
+            "mw": false,
+            "stats": [2, 15, 13, 12, 6 ,14],
+            "total": 62
+        },
+        {
+            "name": "Simulator Greaves",
+            "power": 986,
+            "mw": false,
+            "stats": [23, 2, 6, 7, 20, 6],
+            "total": 64
+        },
+        {
+            "name": "Simulator Greaves",
+            "power": 974,
+            "mw": false,
+            "stats": [2, 19, 12, 9, 15, 6],
+            "total": 63
+        }
+    ],
+
+    "mark": [
+        {
+            "name": "Dreambane Mark",
+            "power": 1004,
+            "mw": true,
+            "stats": [2, 2, 2, 2, 2 ,2],
+            "total": 12
+        }
+    ]
+}
